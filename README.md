@@ -1,4 +1,6 @@
 # SpaceX-Falcon9-kOS-Scripts-30052021
+Craft files for the rocket, and a version without the parts needed for kOS, are included.
+
 This is the Kerbal Operating System code for a Falcon 9 rocket launch (with 60 Starlink satellites).
 
 It includes a second file for the first stage landing, and a third one which is a boot file and has
