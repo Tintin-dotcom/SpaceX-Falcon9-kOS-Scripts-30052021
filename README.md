@@ -21,6 +21,7 @@ This only works if you right-click the kOS-processor located at the top of the f
 select boot file "boot.ks".
 
 ///NOTES///
+
 -> If the rocket spins out of control a few seconds after launch, deactivate SAS for two seconds or so.
 
 -> If the booster hovers and flies up again, change the number in line 49 for a slightly higher one.
